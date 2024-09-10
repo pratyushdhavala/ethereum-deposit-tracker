@@ -1,0 +1,3 @@
+INFURA_URL='https://mainnet.infura.io/v3/70ff727a765c49098f63529bef46d9bc'
+POSTGRES_USER=pratyushdhavala
+POSTGRES_PASSWORD=root
